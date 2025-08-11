@@ -19,8 +19,8 @@ layout: none
   <itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
   <itunes:author>{{ site.itunes_author | xml_escape }}</itunes:author>
   <itunes:explicit>{{ site.explicit_bool }}</itunes:explicit>
-  <itunes:category text="Religion &amp; Spirituality">
-  <itunes:category text="Spirituality"/>
+  <itunes:category text="society &amp; culture">
+  <itunes:category text="personal journals"/>
   </itunes:category>
   <atom:link href="{{ site.url }}{{ site.baseurl }}/feed.xml" rel="self" type="application/rss+xml"/>
   <lastBuildDate>{{ site.time | date_to_rfc822 | xml_escape }}</lastBuildDate>
