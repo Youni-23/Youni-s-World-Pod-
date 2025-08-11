@@ -1,7 +1,7 @@
 title: "Youni's World"  
 description: "Current events, where we are headed, and using astrology to decipher." # Your Podcast's Description
 itunes_author: "Youni-23" # Your Name or Pen-Name
-owner_name: "Yoni-23" # Your NAME or PEN NAME
+owner_name: "Youni-23" # Your NAME or PEN NAME
 owner_email: "savzzrz@icloud.com" # Your EMAIL
 type: "episodic" # episodic OR serial
 explicit_bool: "yes" # yes OR no (in lowercase)
