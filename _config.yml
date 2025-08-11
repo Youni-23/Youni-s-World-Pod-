@@ -6,7 +6,7 @@ owner_email: "savzzrz@icloud.com" # Your EMAIL
 type: "episodic" # episodic OR serial
 explicit_bool: "yes" # yes OR no (in lowercase)
 itunes_summary: "Current events, where we are headed, and using astrology to decipher" # This will match what you write in "description" above
-baseurl: "/Youni-S-World-Pod-" # /your-repository-name
+baseurl: "/Youni-s-World-Pod-" # /your-repository-name
 url: "https://youni-23.github.io" # your-github-user-name.github.io
 
 theme: null
