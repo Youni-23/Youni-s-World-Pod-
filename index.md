@@ -14,7 +14,7 @@ title: {{site.title}}
 <section>
   <h3>RSS Feed Links</h3>
   <p>
-    <a href="https://youni-23-blog.github.io/youni-s-world-pod-/feed.xml">Direct RSS Feed</a><br><br>
+    <a href="https://youni-23.github.io/youni-s-world-pod-/feed.xml">Direct RSS Feed</a><br><br>
     <a href="">Pocket Casts RSS Feed</a><br>
     <a href="">Podcast Index</a><br>
     <a href="">Apple Podcasts</a><br>
