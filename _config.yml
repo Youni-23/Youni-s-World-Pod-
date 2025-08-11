@@ -1,13 +1,13 @@
-title: "My Podcast Title" # Your Podcast's Title 
-description: "A brief description of the podcast." # Your Podcast's Description
-itunes_author: "Your Name" # Your Name or Pen-Name
-owner_name: "Your Name" # Your NAME or PEN NAME
-owner_email: "you@example.com" # Your EMAIL
+title: "Youni's World"  
+description: "Current events, where we are headed, and using astrology to decipher." # Your Podcast's Description
+itunes_author: "Youni-23" # Your Name or Pen-Name
+owner_name: "Yoni-23" # Your NAME or PEN NAME
+owner_email: "savzzrz@icloud.com" # Your EMAIL
 type: "episodic" # episodic OR serial
-explicit_bool: "no" # yes OR no (in lowercase)
-itunes_summary: "A brief description of the podcast." # This will match what you write in "description" above
-baseurl: "/" # /your-repository-name
-url: "https://monicletester.github.io" # your-github-user-name.github.io
+explicit_bool: "yes" # yes OR no (in lowercase)
+itunes_summary: "Current events, where we are headed, and using astrology to decipher" # This will match what you write in "description" above
+baseurl: "/Youni-S-World-Pod-" # /your-repository-name
+url: "https://youni-23.github.io" # your-github-user-name.github.io
 
 theme: null
 markdown: kramdown
