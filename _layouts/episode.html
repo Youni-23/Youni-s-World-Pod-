@@ -1,0 +1,25 @@
+<!-- You do NOT need to edit this unless you wish to change the look of your episode pages on your GitHub Pages. -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+  <main>
+    <h1>{{ page.title }}</h1>
+    <audio controls>
+      <source src="{{ page.audio_url }}" type="{{ page.audio_type }}">
+      Your browser does not support the audio element.
+    </audio>
+    <div class="episode-content">
+      {{ content }}
+    </div>
+    <br>
+    <br>
+    <a href="{{ site.url }}{{ site.baseurl }}">Home Page</a>
+  </main>
+</body>
+</html>
